@@ -7,7 +7,9 @@ I'm a beginning frontend developer.
 ### Projects:
 If wanna see my work, take a look at this projects:
 
-[Hungry - share your recipe](https://hungry-share-your-recipe.netlify.app/) - This is a global revenue sharing app\
+- This is a global revenue sharing app\
+App - [Hungry - share your recipe](https://hungry-share-your-recipe.netlify.app)
+Code - [Hungry - share your recipe](https://github.com/AnnaRe1s/receitas-compartilhadas) 
 [Game - Hangman](https://annare1s.github.io/Jogo-da-Forca/)
 
 
