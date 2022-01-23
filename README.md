@@ -8,8 +8,8 @@ I'm a beginning frontend developer.
 If wanna see my work, take a look at this projects:
 
 - This is a global revenue sharing app\
-App - [Hungry - share your recipe](https://hungry-share-your-recipe.netlify.app)
-Code - [Hungry - share your recipe](https://github.com/AnnaRe1s/receitas-compartilhadas) 
+App - [Hungry - share your recipe](https://hungry-share-your-recipe.netlify.app)\
+Code - [Hungry - share your recipe](https://github.com/AnnaRe1s/receitas-compartilhadas) \
 [Game - Hangman](https://annare1s.github.io/Jogo-da-Forca/)
 
 
