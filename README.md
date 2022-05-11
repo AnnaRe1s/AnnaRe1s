@@ -38,6 +38,8 @@ const anna = {
     code: [Javascript, HTML, CSS],
     tools: [React, Redux, NodeJs, Storybook, Styled-Components, Sass],
     learn: [TypeScript, NestJS, Jest, ]
+    curiosity: ["Former urbanist architect","Passionate about accessibility for the deaf",
+    "I did artistic swimming at Inspara",]
 }
 ```
 
