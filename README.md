@@ -18,17 +18,20 @@
 
 ### Projects developed at Ironhack bootcamp
 
- **Hungry - share your recipe**\
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Foods_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="30" align='center' alt="is a dog send hello"/> **Hungry - share your recipe** 
   This is a global revenue sharing app, you can check how it turned out by [click here!](https://hungry-share-your-recipe.netlify.app)\
   And if you want to see how I structured this project [click here!](https://github.com/AnnaRe1s/receitas-compartilhadas)
 
- This is my game - **Hangman**\
+<img src="https://cdn.dribbble.com/users/959248/screenshots/4300071/siren.gif" width="30" align='center' alt="is a dog send hello"/> **Hangman** 
+  
   Would you like to play? [click here!](https://annare1s.github.io/Jogo-da-Forca/)\
   my Code - [Game - Hangman](https://github.com/AnnaRe1s/Jogo-da-Forca)
-  
+
   
 </br>
-  
+
+
+
   
 ### A little about myself
   
