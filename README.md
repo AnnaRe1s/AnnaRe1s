@@ -2,14 +2,20 @@
 
 <ul>
   <li>
-    <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" alt="is a dog send hello"/>
+    <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" alt="is a cat coding"/>
   Beginner front-end developer.
   </li>
 
   <li>
-    <img src="https://media3.giphy.com/media/h8HgkqabhYyq8iRSp0/200w.gif" width="30" align='center' alt="is a dog send hello"/>
+    <img src="https://media3.giphy.com/media/h8HgkqabhYyq8iRSp0/200w.gif" width="30" align='center' alt="ironhach logo "/>
      Assistant teacher at Ironhack.
   </li>
+  
+  <li>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDZEaLQKKhei-bkvOzrdkNIC896CcG4UW-bUxjfFHzbc36fYaaIVKpWjVABys_plSAVI&usqp=CAU" width="20" align='center' alt="ironhach logo "/>
+      From São Paulo - BR.
+  </li>
+ 
 </ul>
 
 <img src="https://media3.giphy.com/media/lTRUNQrthgIAGo5xvO/giphy.gif?cid=ecf05e47ium8rxgupuwupuo9t99yj6pey7zwbn2i9itpgt8q&rid=giphy.gif&ct=g" width="250"  align='right' alt="is a dog send hello"/>
