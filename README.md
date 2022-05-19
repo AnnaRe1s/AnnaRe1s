@@ -12,7 +12,7 @@
   </li>
   
   <li>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDZEaLQKKhei-bkvOzrdkNIC896CcG4UW-bUxjfFHzbc36fYaaIVKpWjVABys_plSAVI&usqp=CAU" width="20" align='center' alt="ironhach logo "/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDZEaLQKKhei-bkvOzrdkNIC896CcG4UW-bUxjfFHzbc36fYaaIVKpWjVABys_plSAVI&usqp=CAU" width="20" align='center' alt="world "/>
       From São Paulo - BR.
   </li>
  
