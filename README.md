@@ -1,4 +1,4 @@
-# Hello I'm Anna <img src="https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47oo1igdis4za47w5v5ruork5rhobwtle3pl52jgl4&rid=giphy.gif&ct=g" width="100" height="60" align='justify' alt="is a dog send hello"/>
+# Hello I'm Anna <img src="https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47oo1igdis4za47w5v5ruork5rhobwtle3pl52jgl4&rid=giphy.gif&ct=g" width="100" height="60" align='justify' alt="is a dog send hello"/> 
 
 <ul>
   <li>
@@ -18,9 +18,10 @@
 </ul>
 
 
+
 </br>
 
-### Projects developed at Ironhack bootcamp
+### Projects developed at Ironhack bootcamp 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Foods_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="30" align='center' alt="is a dog send hello"/> **Hungry - share your recipe**  
   This is a global revenue sharing app, you can check how it turned out by [click here!](https://hungry-share-your-recipe.netlify.app)\
@@ -35,8 +36,6 @@
   
 </br>
 
-
-
   
 ### A little about myself
   
@@ -49,11 +48,13 @@ const anna = {
     curiosity: ["Former urbanist architect","Passionate about accessibility for the deaf",
     "I did artistic swimming at Inspara",]
 }
-```
+``` 
+
+
 
 #### Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatriz-reis/)
 
 
-<img src="https://media3.giphy.com/media/lTRUNQrthgIAGo5xvO/giphy.gif?cid=ecf05e47ium8rxgupuwupuo9t99yj6pey7zwbn2i9itpgt8q&rid=giphy.gif&ct=g" width="250"  align='right' alt="is a dog send hello"/>
+
