@@ -44,9 +44,9 @@ const anna = {
     pronouns: "she" | "her",
     code: [Javascript, HTML, CSS],
     tools: [React, Redux, NodeJs, Styled-Components, Sass],
-    learn: [TypeScript, Jest, Storybook, ]
+    learn: [Jest-Testing Library React, Enzime]
     curiosity: ["Former urbanist architect","Passionate about accessibility for the deaf",
-    "I did artistic swimming at Inspara",]
+    "I did artistic swimming at Inspara"]
 }
 ``` 
 
