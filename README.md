@@ -16,7 +16,7 @@
 
 </br>
 
-### Projects developed at Ironhack bootcamp 
+### Projects
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Foods_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="30" align='center' alt="is a dog send hello"/> **Hungry - share your recipe**  
   This is a global revenue sharing app, you can check how it turned out by [click here!](https://hungry-share-your-recipe.netlify.app)\
