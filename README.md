@@ -43,7 +43,7 @@ const annaBia = {
     learn: {
       tecnologies:[JAVA, Kotlin, Docker],
       cloudEDevops: [AWS, Athenas, CloudWatch, Cognito, SQS, SNS, ECS, S3]
-    }
+    },
     curiosity: ["I did artistic swimming at Inspara", "I led a multidisciplinary web accessibility project."]
 }
 ``` 
