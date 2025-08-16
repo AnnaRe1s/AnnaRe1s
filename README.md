@@ -34,21 +34,23 @@
 ### A little about myself
   
 ```javascript
-const anna = {
+const annaBia = {
     pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS],
-    tools: [React, Redux, NodeJs, Styled-Components, Sass],
-    learn: [Jest-Testing Library React, Typescript]
-    curiosity: ["Former urbanist architect","Passionate about accessibility for the deaf",
-    "I did artistic swimming at Inspara"]
+    backend: [Javascript, C#, .NET, .NetCore, MySQL, Clean Architexture ],
+    frontend: [React, Next.js, Typescript],
+    cloudEDevops: [AWS, Athenas, CloudWatch, Cognito, SQS, SNS, ECS, S3],
+    accessibility: [WCAG, W3C Validator, AcessMonitoring, Lighthouse],
+    learn: {
+      tecnologies:[JAVA, Kotlin, Docker],
+      cloudEDevops: [AWS, Athenas, CloudWatch, Cognito, SQS, SNS, ECS, S3]
+    }
+    curiosity: ["I did artistic swimming at Inspara", "I led a multidisciplinary web accessibility project."]
 }
 ``` 
 
-
-
 #### Connect with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatriz-reis/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-bia/)
 
 
 
