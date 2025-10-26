@@ -2,7 +2,7 @@
 
 <ul>
   <li >
-  Full stack developer at   <img src="https://senhorviagens.com/wp-content/uploads/2022/08/1-10.jpg" width="65" " alt="is a cat coding"/>.
+  Software Engineer at  Itau Private Bank.
   </li>
   
   <li>
